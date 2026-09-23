@@ -4,3 +4,10 @@
 temp_*.csv
 scratch/
 __pycache__/
+*.tar.gz
+*.xlsx
+old_reports/
+*.pdf
+*report*/*/
+corrected_DE_results/
+figures/
