@@ -1,0 +1,6 @@
+*.raw
+.RData
+.Rhistory
+temp_*.csv
+scratch/
+__pycache__/

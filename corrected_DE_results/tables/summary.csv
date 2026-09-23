@@ -1,0 +1,5 @@
+Contrast,Sig(FDR<0.05),Sig(FDR<0.05 & |log2FC|>=1.0),Up-regulated,Down-regulated
+HFD vs CTRL,117,9,8,1
+HFD+Pio vs HFD,13,7,7,0
+HFD+IP vs HFD,0,0,0,0
+HFD+Cr vs HFD,1,1,1,0
